@@ -9,7 +9,7 @@ was used to generate the webpages can seen under the 'Version' tab.
 
 ### GW190412
 
-These summarypages were generated with the
+These [summarypages](./GW190412/home.html) were generated with the
 [publically available data](https://dcc.ligo.org/public/0163/P190412/008/posterior_samples.h5)
 released through the [LIGO Document Control Center Portal](https://dcc.ligo.org).
 This file can be downloaded with python by running the following,

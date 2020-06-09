@@ -1,18 +1,13 @@
 ## Welcome to PESummary's public summarypages
 
 This page contains summarypages generated with publically available data using
-the [pesummary](https://lscsoft.docs.ligo.org/pesummary/) python package. All
+the [pesummary](https://lscsoft.docs.ligo.org/pesummary/) python package. This
+page acts as an accompaniment to the [pesummary paper](). All
 command lines that were used to generate the webpages can be found on the
 webpages themselves under the 'Downloads' tab. Details of the environment which
 was used to generate the webpages can seen under the 'Version' tab.
 
 ### GW190412
-
-
-
-<h3>
-  <a href=./GW190412/home.html>GW190412 summarypages</a>
-</h3>
 
 These summarypages were generated with the
 [publically available data](https://dcc.ligo.org/public/0163/P190412/008/posterior_samples.h5)

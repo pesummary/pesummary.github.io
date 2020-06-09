@@ -1,0 +1,12 @@
+theme: jekyll-theme-slate
+title: [PESummary's public summarypages]
+description: null
+
+social-network-links:
+  email: "charlie.hoy@ligo.org"
+  github: hoyc1
+  rss: true
+
+share-links-active:
+  email
+  github

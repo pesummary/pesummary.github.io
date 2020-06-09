@@ -22,6 +22,14 @@ This file can be downloaded with python by running the following,
 >>>
 ```
 
+This result file stores the combined PHM samples under the label 'combined'. As
+the comparison plots also use this label, we modify the combined PHM samples
+label before generating the summarypages with the following command line:
+
+```bash
+$ summarymodify --webdir ./ --samples posterior_samples.h5 --labels combined:combinedPHM --overwrite
+```
+
 ### Support or Contact
 
 If you have any questions about this page or any of the data products listed

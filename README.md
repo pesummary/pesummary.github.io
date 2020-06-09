@@ -7,7 +7,7 @@ command lines that were used to generate the webpages can be found on the
 webpages themselves under the 'Downloads' tab. Details of the environment which
 was used to generate the webpages can seen under the 'Version' tab.
 
-### GW190412 - [summarypages](./GW190412/home.html)
+### GW190412 - [summarypages](https://pesummary.github.io/GW190412/home.html)
 
 These summarypages were generated with the
 [publically available data](https://dcc.ligo.org/public/0163/P190412/008/posterior_samples.h5)

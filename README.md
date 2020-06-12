@@ -2,7 +2,8 @@
 
 This page contains summarypages generated with publically available data using
 the [pesummary](https://lscsoft.docs.ligo.org/pesummary/) python package. This
-page acts as an accompaniment to the [pesummary paper](). All
+page acts as an accompaniment to the
+[pesummary paper](https://arxiv.org/abs/2006.06639). All
 command lines that were used to generate the webpages can be found on the
 webpages themselves under the 'Downloads' tab. Details of the environment which
 was used to generate the webpages can seen under the 'Version' tab.
